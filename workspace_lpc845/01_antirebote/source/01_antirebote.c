@@ -44,3 +44,18 @@ int main(void) {
     }
     return 0;
 }
+
+
+
+
+
+
+#define A	10
+#define B	11
+#define C	6
+#define D	14
+#define E	0
+#define F	13
+#define G	15
+#define ANODE 9
+#define ANODE2 8
